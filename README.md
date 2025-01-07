@@ -1,4 +1,4 @@
 # project-one
 This is my first repository in github.
-Have a nice day.
-author = yuvraj shahi.
+<br>Have a nice day.
+<br>author = yuvraj shahi.
